@@ -188,7 +188,7 @@ MIT — see LICENSE file for details.
 ## Contact
 
 Maintainer: EinsteinDipondo
-- GitHub: https://github.com/EinsteinDipondo
+- GitHub: https://github.com/Einsteinke-hub
 
 
 ```
